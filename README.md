@@ -1,2 +1,4 @@
 # BTS Quiz
- Neogcamp project of week 1 
+
+1. Project On Quiz
+2. Used chalk packages
